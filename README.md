@@ -1,8 +1,9 @@
 # practice_prml
-PRML‚ğ“Ç‚ñ‚ÅA‚»‚Ì“à—e‚ğPython‚ÅÀK‚µ‚Ü‚·
+PRMLã‚’èª­ã‚“ã§ã€ãã®å†…å®¹ã‚’Pythonã§å®Ÿç¿’ã—ã¾ã™
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Ushiki/practice_prml/master)
 
-## nbviewer‚ÅŒ©‚é
+## nbviewerã§è¦‹ã‚‹
 
-- [1.5 Œˆ’è—˜_](http://nbviewer.ipython.org/github/ushiki/practice_prml/blob/master/prml01_05.ipynb)
-- [2.3.6 ƒKƒEƒX•ª•z‚É‘Î‚·‚éƒxƒCƒY—˜_](http://nbviewer.ipython.org/github/ushiki/practice_prml/blob/master/prml02_03_06.ipynb)
-- [2.5 ƒmƒ“ƒpƒ‰ƒƒgƒŠƒbƒN–@](http://nbviewer.ipython.org/github/ushiki/practice_prml/blob/master/prml02_05.ipynb)
+- [1.5 æ±ºå®šç†è«–](http://nbviewer.ipython.org/github/ushiki/practice_prml/blob/master/prml01_05.ipynb)
+- [2.3.6 ã‚¬ã‚¦ã‚¹åˆ†å¸ƒã«å¯¾ã™ã‚‹ãƒ™ã‚¤ã‚ºç†è«–](http://nbviewer.ipython.org/github/ushiki/practice_prml/blob/master/prml02_03_06.ipynb)
+- [2.5 ãƒãƒ³ãƒ‘ãƒ©ãƒ¡ãƒˆãƒªãƒƒã‚¯æ³•](http://nbviewer.ipython.org/github/ushiki/practice_prml/blob/master/prml02_05.ipynb)
